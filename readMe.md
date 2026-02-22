@@ -40,6 +40,9 @@ This project features a **Real-Time Visual Dashboard** that monitors data packet
 
 To demonstrate the "Middleman" in action, open a second terminal and run these commands:
 
+<img width="705" height="594" alt="Screenshot 2026-02-22 140356" src="https://github.com/user-attachments/assets/064c63f0-f00f-4c80-8378-614aca9bca78" />
+
+
 ### 1. Large File Transfer (Stress Test)
 This will trigger the progress bar and show the "Total MB" counter climbing.
 ```bash
